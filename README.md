@@ -2,6 +2,7 @@
 A collection of study guides for topic I am interested in.
 
 - [k8s](#k8s)
+- [Combinators](#combinators)
 
 ## k8s
 | Topic | Learning Resource |
@@ -31,3 +32,24 @@ A collection of study guides for topic I am interested in.
 | k8s scaling and auto-scaling | https://www.oreilly.com/library/view/kubernetes-up-and/9781492046527/ |
 | k8s cost optimization and resource management | https://kube.academy/ |
 | k8s future developments and community involvement | https://kubernetes.io/docs/home/ |
+
+
+## Combinators
+| Topic | Learning Resource |
+|-------|------------------|
+| Combinatory logic | https://plato.stanford.edu/entries/logic-combinatory/ |
+| Combinators in lambda calculus | https://en.wikipedia.org/wiki/Lambda_calculus#Combinators |
+| SKI combinator calculus | https://en.wikipedia.org/wiki/SKI_combinator_calculus |
+| BCKW system | https://en.wikipedia.org/wiki/B,C,K,W_system |
+| Combinators in functional programming | https://en.wikipedia.org/wiki/Combinator_library |
+| Fixed point combinators | https://en.wikipedia.org/wiki/Fixed-point_combinator |
+| Y combinator | https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator |
+| J combinator | https://en.wikipedia.org/wiki/J_combinator |
+| Combinators in category theory | https://en.wikipedia.org/wiki/Combinatory_logic#Combinatory_categories |
+| Cartesian closed categories | https://en.wikipedia.org/wiki/Cartesian_closed_category |
+| Curry-Howard correspondence | https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence |
+| Combinators in type theory | https://en.wikipedia.org/wiki/Combinatory_logic#Type-theoretic_interpretation |
+| Combinatory games | https://en.wikipedia.org/wiki/Combinatorial_game_theory#Combinatory_games |
+| Combinatory chemistry | https://en.wikipedia.org/wiki/Combinatorial_chemistry |
+| Combinatorial optimization using genetic algorithms | https://en.wikipedia.org/wiki/Combinatorial_optimization#Genetic_algorithms |
+
