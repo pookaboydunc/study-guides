@@ -102,16 +102,12 @@ A collection of study guides for topic I am interested in.
 ## RDP
 | Topic | Description | Online References |
 | ----- | ----------- | ----------------- |
-| Introduction to RDP | Learn what RDP is and what it can be used for. | [RDP Homepage](http://rdp.cme.msu.edu/) |
-| RDP Installation and Setup | Install and set up RDP on your computer. | [RDP Installation Guide](http://rdp.cme.msu.edu/docs/getting-started/installation/) |
-| RDP Data Input | Learn how to input your data into RDP for analysis. | [RDP Input Tutorial](http://rdp.cme.msu.edu/tutorials/input/) |
-| RDP Data Analysis | Learn how to analyze your data using RDP. | [RDP Analysis Tutorial](http://rdp.cme.msu.edu/tutorials/analysis/) |
-| RDP Taxonomy | Learn how RDP assigns taxonomic classifications to your data. | [RDP Taxonomy Tutorial](http://rdp.cme.msu.edu/tutorials/taxonomy/) |
-| RDP Pipeline | Learn how to use RDP's pipeline for automated data analysis. | [RDP Pipeline Tutorial](http://rdp.cme.msu.edu/tutorials/pipeline/) |
-| RDP Output | Learn how to interpret and visualize RDP's output. | [RDP Output Tutorial](http://rdp.cme.msu.edu/tutorials/output/) |
-| RDP Troubleshooting | Learn how to troubleshoot common issues with RDP. | [RDP Troubleshooting Guide](http://rdp.cme.msu.edu/docs/troubleshooting/) |
-| RDP Best Practices | Learn best practices for using RDP effectively and efficiently. | [RDP Best Practices Guide](http://rdp.cme.msu.edu/docs/best-practices/) |
-| RDP Applications | Explore different applications of RDP in research and industry. | [RDP Publications](http://rdp.cme.msu.edu/publications/) |
+| Introduction to RDP | Learn what RDP is and its main features. | [RDP Wiki](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol) |
+| RDP Client | Learn how to set up and use an RDP client to connect to remote desktops. | [RDP Client Setup Guide](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients) |
+| RDP Server | Learn how to set up and configure an RDP server to allow remote connections. | [RDP Server Setup Guide](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-what-is) |
+| RDP Security | Learn about the security features and options available in RDP. | [RDP Security Best Practices](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-security-best-practices) |
+| RDP Performance Optimization | Learn how to optimize RDP performance for better user experience. | [RDP Performance Optimization Guide](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-performance-tuning/) |
+| RDP Troubleshooting | Learn how to troubleshoot common RDP issues. | [RDP Troubleshooting Guide](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/troubleshoot) |
 
 ## SSH
 | Topic | Description | Online References |
